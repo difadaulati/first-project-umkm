@@ -480,17 +480,16 @@ span {
   object-fit: cover;
 }
 
-.contact .row .order {
-  margin-left: 2rem;
+.order {
+  text-align: center;
 }
 
-.contact .row .order p {
-  text-align: left;
+.contact .order p {
   padding-top: 2rem;
 }
 
-.contact .row .order .pesan {
-  margin-top: 0;
+.contact .order .pesan {
+  margin: 0 auto 2rem;
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.4rem;
